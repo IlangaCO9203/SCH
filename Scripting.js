@@ -1,0 +1,1 @@
+alert("Bienvenido a Sunset Coffee House, la mejor cafeteria bajo el sol :)");
